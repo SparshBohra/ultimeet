@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finoallied-rqli",
+  "private_key_id": "12a4869f5fb5d371a8dc2202856086ec8ad64f6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKyMTM6GUz5QvE\nPvEwlEyd+hNyITxblsDwFLcfmFhoZjib7uZ2aOyi4wGvNTjh1GzRjdervx9nH3cm\nDbwRz6ezuW+iFWgoCRzDBmTtKcbcx8tg/fGqvHSLfWnxVyy4XX75dpbY3cLT9+iv\nqCRHEE/fIqPeKAYYKXmyQvkZrmk6BnQAm9myk+jcCv/grOCdSbMm/xBBiFAO8Jnk\nLlKAeAbYJzDDZTFdkYtVDX2HwD5c2DTd+0X7MXiCOK2gepHwGmXcLM8PpBrONdiG\nzDq3wk3BiaHd/mEpza2hD+rC0GBVFfRrEsDeoJkC8kFovgz/ePdKEQ3hRxbXLw6i\npAiqJyQHAgMBAAECgf8hF0L0J/pf1es1wOr0gV1xbC82ydSkpcg8bBAzjNft+B+w\nQaydR3GLPBpd6cNo4gpX7NZMg4MNy+N+OYqytH6kMsYE6c4U3GlG49kDvaqip+IT\nzawjmPSr0umET/0mh9zI5iGg8AwoF/6B45V7Hs72y52OjhD6ajDsEroKrTl0DLG4\n5YHnygcRSq42DK3Igoy1DuN9uQB8UgZYWQRr3bzVkqju23S1WPQ4WGyAMbROJFPe\nMdr4Wn4Rhtn+rK84U8Dts9+Thj7m0kHaFwyGfg02E2nJi6G42u+rdjpYZQY57ENX\ntPGWDpvHq5S56Y8pv2oq7nsQqBEetmi2JF8uNWECgYEAvVtT0bgWJ5yUPy2k786s\nKKJMH5MGm9f6JPsavDqUFBMM0HAVP5EybOALitQdQvPhvi0IjIJyjXb/3L9Wzm+T\nfRee0HBN+2xyUQsDNuyfpRWWavNOXLhORkPkgy6D/20j/FM398286cwSMW6j/IuC\nHp+ujtdnO8S4cYTVpbVA3b8CgYEAu6D1XoiuWaur0IpkKovk88x3khxXX8wXNbni\nQYRIRbmRQgUmDR6PLAOFdFp7M7IUWs1KHO6kpy1dODZV7TZ/IpQsA/7M+LApXRGl\nsrOPS6JbSkehrZi5Xx9xSS9hedCDNY2/ag9gWgFdisqR/S4QRWR8oZxsYzkiXG2y\nW2WMW7kCgYEAuSWjP1wPzYt8KIooy5H5I4INjJHl1FvJan9cFM/yGe7GiMgO/qip\n9Wrb3lKoid6My7actUaXW1sPsngkGJVgUN/XmVc16LCQ1k0+R2X2cyQ4fzqHVIGh\nh3K67Ml+pzHADegQwWuZW8D9yPe1wClogSkBNQnJFteywMxxWiVv12ECgYEAg574\nQea0GCd7kgFjHw2gAP7QamkDSiqLpZ7Of5Nid7cjlSKzfMSRPxkBR4wpnSwxZzlX\n4k/upXAHUuWbBZsTOJik//CArXw2qBk3GdMolLBCRitV2cenUnlmKSbZxHBneuwC\n+U3sE3edvT05iFgGBgfl/iETT8/GsPwrAD6OZdECgYBZzpUK+CduMC3Lczev3BuU\nbofb2OsFWjfO5TKXbeiYkDBsQwk32jhkTRZpOXHKh9bVGg/ox8hhbigTtAnrZI9H\nn977Ys3iiDIUiXiM84+4lfSxHDfFsyMvYjehTVS6ggrDrxlDTv9fKIcQVVLZN0NS\nGEtqEqBzd4nvVTgKPEPBYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "meeting-maestro@finoallied-rqli.iam.gserviceaccount.com",
+  "client_id": "117793460449680470203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meeting-maestro%40finoallied-rqli.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
