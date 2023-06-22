@@ -4,6 +4,7 @@ import openai
 
 # django imports
 from django.http import HttpResponse
+from django.shortcuts import redirect, render_to_response, RequestContext, log
 from .models import meetings, transcript, summary
 from .forms import MeetingForm
 
@@ -94,10 +95,10 @@ def new_meeting(request):
         
         if (meeting_form.is_valid()):
             log.debug("test....")
-                meeting=meeting_form.save()
+            meeting=meeting_form.save()
             meeting.save()
 
             return redirect('/meeting_information/')
         else:
-        meeting_form=MeetingForm()
+            meeting_form=MeetingForm()
             return render_to_response('{}',{'form':meeting_form},context_instance=RequestContext(request))
